@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(npm install:*)",
-      "Bash(npm run:*)",
-      "Bash(Read \"C:\\\\Users\\\\DELL\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\E--Projects-JS-converter\\\\1c4cbdf9-f031-4152-9c8b-d09a0d5762ae\\\\tasks\\\\bj5etu0qr.output\")"
-    ]
-  }
-}
